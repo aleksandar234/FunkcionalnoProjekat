@@ -1,0 +1,28 @@
+001 ## [7]vv  [a]c  [b]a  [c]m  [d]b  [e]144551  
+010 ## [a]978-86-6145-117-1  
+100 ## [b]d  [c]2013  [h]srp  [l]ba  
+101 1# [a]srp  [c]eng  
+102 ## [a]srb  [b]sr  
+105 ## [f]a  
+200 0# [a]Njujorska trilogija  [f]Pol Oster  [g]preveli sa engleskog Ivana Djuric Paunovic, Zoran Paunovic, Svetlana Spaic  
+210 ## [a]Beograd  [c]Geopoetika izdavastvo  [d]2013  [e]Beograd  [g]Cigoja stampa  
+215 ## [a]283 str.  [d]20 cm  
+225 2# [a]Edicija Svet proze  [f][Geopoetika, Beograd]  
+300 0# [a]Podatak o izdanju preuzet van publikacije  
+300 0# [a]Prevod dela: The New York Trilogy / Paul Auster  
+300 0# [a]Podatak o tirazu preuzet van publikacije  
+300 0# [a]Tiraz 300  
+300 0# [a]Na presavijenom delu prednjeg kor. lista beleska o autoru  
+327 1# [a]Sadrzaj s nasl. str.: Grad od stakla = City of Glass ; Duhovi = Glosis ; Zakljucana soba = The Locked Room  
+423 #1 [1]  {{200 0#  a GradOdStakla a Duhovi a ZakljucanaSoba }}  
+474 ## [1]0  
+500 ## [a]New York Trilogy  
+675 ## [a]821.111(73)-31  [b]821.111(73)-31  [v]2  [z]scr  
+700 #1 [4]070  [a]oster  [b]pol  [f]1947-  
+702 11 [4]730  [a]Djuric-Paunovic  [b]Ivan  [6]01  
+702 11 [4]730  [a]Paunovic  [b]Zoran  
+702 11 [4]730  [a]Spaic  [b]Svetlana  
+900 #3 [a]Auster  [b]Paul  
+902 16 [6]01  [a]Paunovic  [b]Ivana Djuric-  
+992 ## [b]cr  [c]20151215  [f]ivanam  
+992 ## [b]rd  [c]20151222  [f]olja  

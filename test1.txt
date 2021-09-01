@@ -1,0 +1,8 @@
+001 ## [7]vv  [a]c  [b]a  [c]m  [d]b  [e]144551  
+010 ## [a]"To nisam bio ja"  
+100 ## [b]d  [c]2013  [h]srp  [l]ba  
+101 1# [a]srp  [c]eng  
+102 ## [a]srb  [b]sr  
+105 ## [f]a  
+105 ## [f]aleksandar  
+423 #1 [1]  {{200 0#  a GradOdStakla a Duhovi b "Zakljucana Soba" }}  
